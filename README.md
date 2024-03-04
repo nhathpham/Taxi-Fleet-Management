@@ -60,11 +60,6 @@ As head of a taxi company in Chicago, we want to optimize fleet distribution and
 ### 3. Results
 We compared clusters against 5 performance metrics and analyzed additional features to derive the final conclusions for each cluster. For detailed results, please refer to the [Presentation](https://docs.google.com/presentation/d/1qxdqwxaJqGqQgGpsHlpJH_9me1p4Dg7xIz-HvaDSqls/edit?usp=sharing).
 
-![scatter1](https://github.com/nhathpham/Taxi-Management-Clustering/assets/87089936/dc2a4f6a-8a77-4534-8828-e29b1591d23b)
-![scatter2](https://github.com/nhathpham/Taxi-Management-Clustering/assets/87089936/389fdc91-8de8-47d7-bf70-7179782ecff5)
-![scatter3](https://github.com/nhathpham/Taxi-Management-Clustering/assets/87089936/b9ceabb3-eac5-4248-903d-654915fe0a5e)
-
-
 <img src="https://github.com/nhathpham/Taxi-Management-Clustering/assets/87089936/dc2a4f6a-8a77-4534-8828-e29b1591d23b" width="300">
 <img src="https://github.com/nhathpham/Taxi-Management-Clustering/assets/87089936/389fdc91-8de8-47d7-bf70-7179782ecff5" width="300">
 <img src="https://github.com/nhathpham/Taxi-Management-Clustering/assets/87089936/b9ceabb3-eac5-4248-903d-654915fe0a5e" width="300">
