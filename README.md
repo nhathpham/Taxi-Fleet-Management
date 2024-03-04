@@ -45,7 +45,7 @@ As head of a taxi company in Chicago, we want to optimize fleet distribution and
 ### 1. Data aggregation
 - Aggregated trip data into profiles for 2,864 taxis
 - Derived taxi attributes:
-  - For clustering model: performance metrics: (median) Idle Time, Daily Use Rate, Trips per Day, Average Speed, and profitability metrics: (median) Daily Revenue, Tips Proportion.
+  - For clustering model: (median) Idle Time, Daily Use Rate, Trips per Day, Average Speed, Daily Revenue, Tips Proportion.
   - For later analysis: distribution of trips by pickup area, time of day, and payment type
     
 ### 2. Clustering 
@@ -58,4 +58,10 @@ As head of a taxi company in Chicago, we want to optimize fleet distribution and
   - GMM with k=4 selected based on BIC, Silhouette scores, and testing different values of k
 
 ### 3. Results
-We compared clusters using metrisc, and analyzed other features to come up with final conclusion about each cluster. Please view Presentation for 
+We compared clusters against 5 performance metrics and analyzed additional features to derive the final conclusions for each cluster. For detailed results, please refer to the [Presentation](link-to-presentation).
+
+#### **Cluster 1: High Performers**
+#### **Cluster 2: Urban Cabs**
+#### **Cluster 3: Airport Cabs**
+#### **Cluster 4: Low Performers**
+
