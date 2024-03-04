@@ -64,6 +64,11 @@ We compared clusters against 5 performance metrics and analyzed additional featu
 ![scatter2](https://github.com/nhathpham/Taxi-Management-Clustering/assets/87089936/389fdc91-8de8-47d7-bf70-7179782ecff5)
 ![scatter3](https://github.com/nhathpham/Taxi-Management-Clustering/assets/87089936/b9ceabb3-eac5-4248-903d-654915fe0a5e)
 
+
+<img src="https://github.com/nhathpham/Taxi-Management-Clustering/assets/87089936/dc2a4f6a-8a77-4534-8828-e29b1591d23b" width="300">
+<img src="https://github.com/nhathpham/Taxi-Management-Clustering/assets/87089936/389fdc91-8de8-47d7-bf70-7179782ecff5" width="300">
+<img src="https://github.com/nhathpham/Taxi-Management-Clustering/assets/87089936/b9ceabb3-eac5-4248-903d-654915fe0a5e" width="300">
+
 #### **Cluster 1: High Performers**
 #### **Cluster 2: Urban Cabs**
 #### **Cluster 3: Airport Cabs**
