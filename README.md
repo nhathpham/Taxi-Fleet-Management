@@ -65,7 +65,37 @@ We compared clusters against 5 performance metrics and analyzed additional featu
 <img src="https://github.com/nhathpham/Taxi-Management-Clustering/assets/87089936/b9ceabb3-eac5-4248-903d-654915fe0a5e" width="320">
 
 #### **Cluster 0: High Performers**
+- Characteristics:  
+  - Top earner, high efficiency, steady demand
+  - Broad coverage beyond typical hotspots
+  - High usage of "Other" payment methods
+- Suggestions:
+  - Market wide coverage to attract diverse riders
+  - Explore 'other' payments for new revenue channels
+    
 #### **Cluster 1: Urban Cabs**
+- Characteristics: 
+  - Short trips but slower speeds, steady service demand in downtown
+  - Active during rush/ business hours
+- Suggestions:
+  - Better route optimization to avoid congested areas
+  - Offer perks for trips during less busy hours
+  - Expand coverage to other high-demand city areas
+    
 #### **Cluster 2: Airport Cabs**
-#### **Cluster 3: Low Performers**
+- Characteristics:
+  - Primarily airport trips with peak evening activity, explains longer routes and fast speeds
+  - Low trip count, high idle time suggest downtime issues
+  - Preference for credit card payments
+- Suggestions:
+  - Adjust taxi scheduling to match flight arrival times to target peak airport demand
+  - Add courier services during downtime
+  - Partner with hotels/ airlines for airport pick-ups
 
+#### **Cluster 3: Low Performers**
+- Characteristics:
+  - Balance airport and city trips but fail to optimize either => high idle time and low earnings
+  - Effective service but poor demand capture => infrequent trips
+- Suggestions:
+  - Demand analysis: understand reasons for low trip counts
+  - Adopt high-performance practices to reduce idle times
