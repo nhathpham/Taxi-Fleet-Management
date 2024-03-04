@@ -4,7 +4,7 @@
 ![contributors](https://img.shields.io/github/contributors/nhathpham/Taxi-Management-Clustering) 
 ![codesize](https://img.shields.io/github/languages/code-size/nhathpham/Taxi-Management-Clustering) 
 
-This repository corresponds to our mid-term project for DS5230: Unsupervised Machine Learning. The task involves formulating a problem statement and implementing various clustering methods on a selected dataset.
+For this mid-term project of class DS5230: Unsupervised Machine Learning, we formulated a problem statement and implemented various clustering methods on a selected dataset.
 
 ## Problem Statement
 
