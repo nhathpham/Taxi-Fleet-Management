@@ -58,7 +58,7 @@ As head of a taxi company in Chicago, we want to optimize fleet distribution and
   - GMM with k=4 selected based on BIC, Silhouette scores, and testing different values of k
 
 ### 3. Results
-We compared clusters against 5 performance metrics and analyzed additional features to derive the final conclusions for each cluster. For detailed results, please refer to the [Presentation](link-to-presentation).
+We compared clusters against 5 performance metrics and analyzed additional features to derive the final conclusions for each cluster. For detailed results, please refer to the [Presentation](https://github.com/nhathpham/Taxi-Management-Clustering/blob/main/Taxi_Management_Presentation.pdf).
 
 #### **Cluster 1: High Performers**
 #### **Cluster 2: Urban Cabs**
