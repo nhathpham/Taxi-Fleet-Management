@@ -13,10 +13,10 @@ For this mid-term project of class DS5230: Unsupervised Machine Learning, we for
 As head of a taxi company in Chicago, we want to optimize fleet distribution and taxi performance to boost efficiency and profitability.
 
 **Challenge 1: Align fleet deployment with citywide demand** 
-  --> Cluster on spatial and temporal trip data to identify high-demand hotspots and patterns. Insights from this analysis will enable strategic fleet positioning, reduce response times, enhance customer satisfaction.
+  ➡️ Cluster on spatial and temporal trip data to identify high-demand hotspots and patterns. Insights from this analysis will enable strategic fleet positioning, reduce response times, enhance customer satisfaction.
 
 **Challenge 2:  Evaluate and improve efficiency of the fleet** 
-  --> Cluster taxis based on performance metrics to distinguish efficiency profiles. Insights from this analysis will enable interventions for low performers and adoption of best practices, enhance service quality and optimize costs.
+  ➡️ Cluster taxis based on performance metrics to distinguish efficiency profiles. Insights from this analysis will enable interventions for low performers and adoption of best practices, enhance service quality and optimize costs.
 
 ## Dataset
 - 1.7 million taxi trips in Chicago from September to November 2023. Each entry represents a trip and with 20+ attributes.
