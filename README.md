@@ -24,20 +24,24 @@ As head of a taxi company in Chicago, we want to optimize fleet distribution and
 - Additional attributes include taxi ID, trip duration, distance, fare, non-cash tips, tolls, extra charges, total cost, payment method, and associated taxi company.
 - We queried this dataset from Google Big Query. The original dataset was provided by the City of Chicago.
 
-## Analysis 1: Trip Pattern Clustering
+## Code structure
 ```bash
-├── trip_data_processing.ipynb
-├── trip_eda.ipynb
-├── trip_cluster_NP.ipynb
+├── Analysis 1
+│   ├── trip_data_processing.ipynb
+│   ├── trip_eda.ipynb
+│   ├── trip_cluster_NP.ipynb
+├── Analysis 2
+│   ├── taxi_data_processing.ipynb
+│   ├── taxi_eda.ipynb
+│   ├── taxi_cluster.ipynb
+├── Presentation
+│   ├── Taxi_Management_Presentation.pdf
 ```
+
+## Analysis 1: Trip Pattern Clustering
+
 
 ## Analysis 2: Taxi Performance Clustering
-```bash
-├── taxi_data_processing.ipynb
-├── taxi_eda.ipynb
-├── taxi_cluster.ipynb
-```
-
 ### 1. Data aggregation
 - Aggregated trip data into profiles for 2,864 taxis
 - Derived taxi attributes:
@@ -54,4 +58,4 @@ As head of a taxi company in Chicago, we want to optimize fleet distribution and
   - GMM with k=4 selected based on BIC, Silhouette scores, and testing different values of k
 
 ### 3. Results
-
+We compared clusters using metrisc, and analyzed other features to come up with final conclusion about each cluster. Please view Presentation for 
