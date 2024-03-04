@@ -65,8 +65,6 @@ We compared clusters against 5 performance metrics and analyzed additional featu
 <img src="https://github.com/nhathpham/Taxi-Management-Clustering/assets/87089936/b9ceabb3-eac5-4248-903d-654915fe0a5e" width="320">
 
 #### **Cluster 0: High Performers**
-
-$${\color{red}Cluster 0: High Performers}$$
 - Characteristics:  
   - Top earner, high efficiency, steady demand
   - Broad coverage beyond typical hotspots
