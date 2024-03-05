@@ -8,7 +8,7 @@ For this mid-term project of class DS5230: Unsupervised Machine Learning, we for
 
 ## Problem Statement
 
-<img src="https://github.com/nhathpham/Scalable-Bird-Detection-Forecast/assets/87089936/a0cc4d69-a413-4f81-bf23-51cd6c03a762" width="300">
+<img src="https://github.com/nhathpham/Taxi-Management-Clustering/assets/87089936/5d2f3988-57ea-471f-9dfb-4f3c99ca694a" width="300">
 
 As head of a taxi company in Chicago, we want to optimize fleet distribution and taxi performance to boost efficiency and profitability.
 
@@ -56,7 +56,7 @@ As head of a taxi company in Chicago, we want to optimize fleet distribution and
 - Insights: Offer subscription services and loyalty programs; Optimize taxi availability
 
 #### **🌘 Cluster 1: Off-peak Urban and Airport Trips**
-<img src="https://github.com/nhathpham/Taxi-Management-Clustering/assets/87089936/080a2a10-36ba-4a3b-91f6-0a46356de354" width="270">
+<img src="https://github.com/nhathpham/Taxi-Management-Clustering/assets/87089936/080a2a10-36ba-4a3b-91f6-0a46356de354" width="250">
 
 - City-wide coverage, urban routes and airport commutes 
 - Off-peak hours: early morning & late night 
