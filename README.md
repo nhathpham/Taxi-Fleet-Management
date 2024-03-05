@@ -55,7 +55,7 @@ As head of a taxi company in Chicago, we want to optimize fleet distribution and
 - Peak activity during office hours
 - Insights: Offer subscription services and loyalty programs; Optimize taxi availability
 
-#### **🌆 Cluster 1: Off-peak Urban and Airport Trips**
+#### **🌘 Cluster 1: Off-peak Urban and Airport Trips**
 <img src="https://github.com/nhathpham/Taxi-Management-Clustering/assets/87089936/080a2a10-36ba-4a3b-91f6-0a46356de354" width="270">
 
 - City-wide coverage, urban routes and airport commutes 
@@ -63,20 +63,20 @@ As head of a taxi company in Chicago, we want to optimize fleet distribution and
 - Wide fare range, high median => diverse trip lengths
 - Insights: Collaborate with businesses such as hotels, airlines, and night venues; potential for dynamic pricing
 
-#### **🌆 Cluster 2: Non-commute Urban Travel**
+#### **👜 Cluster 2: Non-commute Urban Travel**
 <img src="https://github.com/nhathpham/Taxi-Management-Clustering/assets/87089936/e234cfb4-c2e0-446a-b25c-bc86b74481aa" width="350">
 
 - Common routes to and from downtown, short trips (low fare); Midday and evening hours
 - Insights: Likely non-commute travel (leisure or errands); Targeted ads for urban activities (shopping/ leisure outings)
 
-#### **🌆 Cluster 3: Mixed Airport and Urban Trips**
+#### **🌆✈️ Cluster 3: Mixed Airport and Urban Trips**
 <img src="https://github.com/nhathpham/Taxi-Management-Clustering/assets/87089936/a5eefb85-c94c-4233-ba5c-5b0305809e35" width="350">
 
 - Mixed distance trips
 - Common routes between downtown & airports (O’Hare, Garfield Ridge); Afternoon and rush hours
 - Insights: Explore Midway airport as an underserved market; offer competitive pricing for airport trips
 
-#### **🌆 Cluster 4: O’hare to City Trips**
+#### **✈️🌆 Cluster 4: O’hare to City Trips**
 <img src="https://github.com/nhathpham/Taxi-Management-Clustering/assets/87089936/68aa481d-e64b-4868-8f34-a6cb7028758b" width="380">
 
 - Exclusive Ohare pickups to mainly downtown
