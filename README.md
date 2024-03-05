@@ -8,7 +8,7 @@ For this mid-term project of class DS5230: Unsupervised Machine Learning, we for
 
 ## Problem Statement
 
-<img src="https://github.com/nhathpham/Taxi-Management-Clustering/assets/87089936/5d2f3988-57ea-471f-9dfb-4f3c99ca694a" width="300">
+<img src="https://github.com/nhathpham/Taxi-Management-Clustering/assets/87089936/5d2f3988-57ea-471f-9dfb-4f3c99ca694a" width="250">
 
 As head of a taxi company in Chicago, we want to optimize fleet distribution and taxi performance to boost efficiency and profitability.
 
