@@ -50,20 +50,20 @@ As head of a taxi company in Chicago, we want to optimize fleet distribution and
 ### 2. Results
 #### **🌆 Cluster 0: Central City Routes**
 <img src="https://github.com/nhathpham/Taxi-Management-Clustering/assets/87089936/f3eb36f8-bed1-4868-a86a-27e01ae97556" width="350">
-<img src="https://github.com/nhathpham/Taxi-Management-Clustering/assets/87089936/dea431a9-dc5b-427d-acf6-923b4613d80f" width="350">
+<img src="https://github.com/nhathpham/Taxi-Management-Clustering/assets/87089936/dea431a9-dc5b-427d-acf6-923b4613d80f" width="300">
 
 
 #### **🌆 Cluster 1: Off-peak Urban and Airport Trips**
 <img src="https://github.com/nhathpham/Taxi-Management-Clustering/assets/87089936/52a422e0-c537-46bb-a802-82b7879f5a97" width="350">
-<img src="https://github.com/nhathpham/Taxi-Management-Clustering/assets/87089936/080a2a10-36ba-4a3b-91f6-0a46356de354" width="350">
+<img src="https://github.com/nhathpham/Taxi-Management-Clustering/assets/87089936/080a2a10-36ba-4a3b-91f6-0a46356de354" width="300">
 
 
 #### **🌆 Cluster 2: Non-commute Urban Travel**
 
-<img src="https://github.com/nhathpham/Taxi-Management-Clustering/assets/87089936/e234cfb4-c2e0-446a-b25c-bc86b74481aa" width="350">
+<img src="https://github.com/nhathpham/Taxi-Management-Clustering/assets/87089936/e234cfb4-c2e0-446a-b25c-bc86b74481aa" width="300">
 
 #### **🌆 Cluster 3: Mixed Airport and Urban Trips**
-<img src="https://github.com/nhathpham/Taxi-Management-Clustering/assets/87089936/a5eefb85-c94c-4233-ba5c-5b0305809e35" width="350">
+<img src="https://github.com/nhathpham/Taxi-Management-Clustering/assets/87089936/a5eefb85-c94c-4233-ba5c-5b0305809e35" width="300">
 
 #### **🌆 Cluster 4: O’hare to City Trips**
 <img src="https://github.com/nhathpham/Taxi-Management-Clustering/assets/87089936/68aa481d-e64b-4868-8f34-a6cb7028758b" width="350">
