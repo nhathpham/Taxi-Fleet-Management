@@ -52,7 +52,7 @@ As head of a taxi company in Chicago, we want to optimize fleet distribution and
 <img src="https://github.com/nhathpham/Taxi-Management-Clustering/assets/87089936/f3eb36f8-bed1-4868-a86a-27e01ae97556" width="380">
 
 - Exclusive downtown pickups and dropoffs; uniformly lower fare => Short trips 
-- Peak activity during office hours
+- Peak activity during business hours
 - Insights: Offer subscription services and loyalty programs; Optimize taxi availability
 
 #### **🌘 Cluster 1: Off-peak Urban and Airport Trips**
